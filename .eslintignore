@@ -1,4 +1,6 @@
 coverage/*
 dist/*
 docs/build/*
+examples/**/node_modules
+examples/**/public/dist
 dll/*
